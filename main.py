@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import sys
 
 from qt_core import *
@@ -18,3 +19,8 @@ if __name__ == "__main__":
 
 
 if __name__ = "__main__":
+=======
+import random
+
+print("hellow word")
+>>>>>>> c1c7e5e92d2713c98dc08269f981efe948dc3099
