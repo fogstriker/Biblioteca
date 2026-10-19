@@ -8,7 +8,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.so
-
+__pycache__
+pycache
 # Ambientes virtuais
 .venv/
 venv/
